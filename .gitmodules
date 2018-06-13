@@ -1,0 +1,3 @@
+[submodule "OpenTripPlanner"]
+	path = OpenTripPlanner
+	url = https://github.com/m-doru/OpenTripPlanner.git
