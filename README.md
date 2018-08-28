@@ -1,22 +1,10 @@
 # DS Lab - Final Assignment: Robust Journey Planning
 
-The final assignment is to be done in **groups of 3 or, preferably, 4**.
+An example of the end-result of this project can be seen at the following two visualizations which show how far and with what confidence can one reach in 1h by leaving from center of Zurich at 8:30 AM by following the journeys recommended by a classical journey planner and by ours:
 
-If needed, please start by *creating a new group* or *update a existing group* for the final project (to be used in Doodle below).
+[Zurich 8:30AM deterministic itineraries](https://enguerrandgrx.github.io/maps/zurich-830am-60mins_deterministic_itineraries.html)
 
-## Important dates
-
-The assignment (clear, well-annotated notebook; report-like) is due on **June 15th, 23:59**.
-
-The oral defense will take place either before the end of the semester or after the end of the semester (before or during exam period).
-
-You are invited to indicate your group's availability **using your final assignment's group name** in [Doodle](https://doodle.com/poll/t2s5ndf8iugtgvi5). Please **do so ASAP** to be assured a good spot. Single vote! First come, first served!
-
-Finally, we will hold office hours in **INN 211** on the following days:
-
-- Thursday May 17th 16:00 - 17:00
-- Tuesday May 22nd 15:00 - 16:00
-- Thursday May 31st 16:00 - 17:00
+[Zurich 8:30AM itineraries with 95% confidence (our route planner)](https://enguerrandgrx.github.io/maps/zurich-830am-60mins_robust_itineraries_confidence95.html)
 
 ## Problem Motivation
 
